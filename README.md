@@ -1,4 +1,5 @@
 # Proyecto de Procesamiento de Lenguaje Natural
+Trabajo Práctico Final de la materia Procesamiento de Lenguaje Natural.
 
 Sistema de Reconocimiento de Entidades Nombradas (NER) aplicado a la gestión de incidentes en aulas. El objetivo es, a partir de mensajes en lenguaje natural enviados por docentes, extraer automáticamente información estructurada acerca del incidente:
 - **OBJETO**: Elemento físico afectado.
